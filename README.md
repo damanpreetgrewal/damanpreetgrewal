@@ -61,8 +61,8 @@ Recently graduated from a website design and development post-graduate certifica
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Zhoha28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhoha28&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=damanpreetgrewal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damanpreetgrewal&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
