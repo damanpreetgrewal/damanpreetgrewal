@@ -6,7 +6,7 @@ Recently graduated from a website design and development post-graduate certifica
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damanpreetgrewal/)](https://www.linkedin.com/in/damanpreetgrewal/)
 
-[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zhoha28&theme=xcode)](https://github.com/damanpreetgrewal/)
+[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=damanpreetgrewal&theme=xcode)](https://github.com/damanpreetgrewal/)
 
 ## ⚡ Technologies
 
