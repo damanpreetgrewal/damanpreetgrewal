@@ -23,11 +23,10 @@ Recently graduated from a Web Design and Development post-graduate certificate p
 ![NextJs](https://img.shields.io/badge/NextJs-%23323330.svg?style=for-the-badge)
 ![ReactJS](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-
+![Redux](https://camo.githubusercontent.com/3a2650b6854cb790e3af41a1cefa87df32efc07aad12d0c0f128a7fbc5998ac3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526564757826636f6c6f723d373634414243266c6f676f3d5265647578266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 ### Back-End Languages
 
-![PHP](https://img.shields.io/badge/PHP-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/expressjs-%23092E20.svg?style=for-the-badge&logo=express.js&logoColor=white)
 
@@ -48,18 +47,14 @@ Recently graduated from a Web Design and Development post-graduate certificate p
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-
-
 ### Platforms/Tools:
 
-![Docker]([https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white](https://camo.githubusercontent.com/4ec342876a40b53ffc6230a41196528690f9f42b1098fd354df46c649720b4c6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446f636b657226636f6c6f723d323439364544266c6f676f3d446f636b6572266c6f676f436f6c6f723d464646464646266c6162656c3d))
+![Docker](https://camo.githubusercontent.com/4ec342876a40b53ffc6230a41196528690f9f42b1098fd354df46c649720b4c6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446f636b657226636f6c6f723d323439364544266c6f676f3d446f636b6572266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Kubernetes](https://camo.githubusercontent.com/61406e0657482c3aef4b1bd17a20fe71231f648a7926cfe7e5597d56da525b0c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b756265726e6574657326636f6c6f723d333236434535266c6f676f3d4b756265726e65746573266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![Androidstudio](https://img.shields.io/badge/android%20-%23430098.svg?style=flat-square&logo=android&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ## 📈 Stats
