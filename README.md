@@ -21,6 +21,8 @@ Recently graduated from a website design and development post-graduate certifica
 ![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge)
 ![AngularJs](https://img.shields.io/badge/AngularJs-%23323330.svg?style=for-the-badge)
 ![NextJs](https://img.shields.io/badge/NextJs-%23323330.svg?style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
 
 ### Back-End Languages
 
