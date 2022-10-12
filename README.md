@@ -6,7 +6,7 @@ Recently graduated from a Web Design and Development post-graduate certificate p
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damanpreetgrewal/)](https://www.linkedin.com/in/damanpreetgrewal/)
 
-[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=damanpreetgrewal&theme=xcode)](https://github.com/damanpreetgrewal/)
+[![Damanpreet's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=damanpreetgrewal&theme=xcode)](https://github.com/damanpreetgrewal/)
 
 ## ⚡ Technologies
 
@@ -37,14 +37,15 @@ Recently graduated from a Web Design and Development post-graduate certificate p
 ![Oracle](https://img.shields.io/badge/oracle-%23563D7C.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-6DA55F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 
 
-### CMS
+### CI/CD
 
-![Shopify](https://img.shields.io/badge/shopify-%23563D7C.svg?style=for-the-badge&logo=shopify&logoColor=white)
-![Wordpress](https://img.shields.io/badge/wordpress-%234ea94b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![CraftCMS](https://img.shields.io/badge/craftcms-6DA55F?style=for-the-badge&logo=craftmcms&logoColor=white)
+![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
 
