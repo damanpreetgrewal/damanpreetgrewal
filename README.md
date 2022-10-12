@@ -1,7 +1,7 @@
 # Hi, I am Damanpreet Grewal ! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 
-Recently graduated from a website design and development post-graduate certificate program at Conestoga College with a bachelor’s in computer science. I am a tech enthusiast & motivated learner. I am always open to collaborating on projects. Find out more about me & feel free to connect with me here.
+Recently graduated from a Web Design and Development post-graduate certificate program at Conestoga College , Kitchener , also holding a bachelor’s in Electronics and Instrumentation Engineering. Over 6 years of experience as a Full Stack Developer in the IT Finance industry. Extensively experienced in Software Analysis, Design, Development, Implementation and Testing of Object-Oriented Applications and Web-based Enterprise Applications using ReactJS and NodeJS.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damanpreetgrewal/)](https://www.linkedin.com/in/damanpreetgrewal/)
@@ -21,7 +21,8 @@ Recently graduated from a website design and development post-graduate certifica
 ![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge)
 ![AngularJs](https://img.shields.io/badge/AngularJs-%23323330.svg?style=for-the-badge)
 ![NextJs](https://img.shields.io/badge/NextJs-%23323330.svg?style=for-the-badge)
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![ReactJS]([https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22))
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 
 ### Back-End Languages
@@ -36,6 +37,7 @@ Recently graduated from a website design and development post-graduate certifica
 ![Oracle](https://img.shields.io/badge/oracle-%23563D7C.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-6DA55F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 ### CMS
