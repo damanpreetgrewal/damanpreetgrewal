@@ -1,7 +1,7 @@
 # Hi, I am Damanpreet Grewal ! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 
-Recently graduated from a Web Design and Development post-graduate certificate program at Conestoga College , Kitchener , also holding a bachelor’s in Electronics and Instrumentation Engineering. Over 6 years of experience as a Full Stack Developer in the IT Finance industry. Extensively experienced in Software Analysis, Design, Development, Implementation and Testing of Object-Oriented Applications and Web-based Enterprise Applications using ReactJS and NodeJS.
+Graduated from a Web Design and Development post-graduate certificate program at Conestoga College , Kitchener , also holding a bachelor’s in Electronics and Instrumentation Engineering. Over 7 years of experience as a Full Stack Developer in the IT Finance industry. Extensively experienced in Software Analysis, Design, Development, Implementation and Testing of Object-Oriented Applications and Web-based Enterprise Applications using React.js, Next.js and Node.js.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damanpreetgrewal/)](https://www.linkedin.com/in/damanpreetgrewal/)
