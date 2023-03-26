@@ -6,7 +6,7 @@ Graduated from a Web Design and Development post-graduate certificate program at
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damanpreetgrewal/)](https://www.linkedin.com/in/damanpreetgrewal/)
 
-[![Damanpreet's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damanpreetgrewal&theme=dracula)
+![Damanpreet's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damanpreetgrewal&theme=dracula)
 
 
 ## ⚡ Technologies
