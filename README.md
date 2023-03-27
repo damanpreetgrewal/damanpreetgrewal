@@ -1,26 +1,24 @@
-# Hi, I am Damanpreet Grewal ! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
-
+# Hi, Hope you are having good time! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 Graduated from a Web Design and Development post-graduate certificate program at Conestoga College , Kitchener , also holding a bachelor’s in Electronics and Instrumentation Engineering. Over 7 years of experience as a Full Stack Developer in the IT Finance industry. Extensively experienced in Software Analysis, Design, Development, Implementation and Testing of Object-Oriented Applications and Web-based Enterprise Applications using React.js, Next.js and Node.js.
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damanpreetgrewal/)](https://www.linkedin.com/in/damanpreetgrewal/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
+
 
 ![Damanpreet's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damanpreetgrewal&theme=dracula)
 
 
-## ⚡ Technologies
+## ⚡ Skills
 
 ### Front-End Languages 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Jquery](https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge)
-![AngularJs](https://img.shields.io/badge/AngularJs-%23323330.svg?style=for-the-badge)
 ![NextJs](https://img.shields.io/badge/NextJs-%23323330.svg?style=for-the-badge)
 ![ReactJS](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
