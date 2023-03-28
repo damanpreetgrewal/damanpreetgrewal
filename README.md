@@ -1,4 +1,4 @@
-# Hi,! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
+# Hi, <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 My name is Daman. I Graduated from a Web Design and Development post-graduate program at Conestoga College , Kitchener. I also hold a bachelor’s in Electronics and Instrumentation Engineering. I have 7 years of experience working as a Full Stack Developer in the IT-Finance industry.
 
