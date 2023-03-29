@@ -70,7 +70,7 @@ My name is Daman. I graduated from a Web Design and Development post-graduate pr
 </td>
 </table>
 
-# See you Around: 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"' />
+### See you Around: 
+<img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='160"' />
 
 
