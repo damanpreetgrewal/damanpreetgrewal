@@ -1,6 +1,12 @@
-# Hello 👋, <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
-My name is Daman. I graduated from a Web Design and Development post-graduate program at Conestoga College , Kitchener. I also hold a bachelor’s degree in Electronics and Instrumentation Engineering. I have 7 years of experience working as a Full Stack Developer in the IT-Finance industry.
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Daman....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+I graduated from a Web Design and Development post-graduate program at Conestoga College , Kitchener. I also hold a bachelor’s degree in Electronics and Instrumentation Engineering. I have 7 years of experience working as a Full Stack Developer in the IT-Finance industry.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damanpreetgrewal/)](https://www.linkedin.com/in/damanpreetgrewal/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
