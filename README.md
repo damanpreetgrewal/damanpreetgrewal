@@ -68,7 +68,8 @@ I graduated from a Web Design and Development post-graduate program at Conestoga
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=damanpreetgrewal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damanpreetgrewal&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<td>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damanpreetgrewal&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 <td align="center">
