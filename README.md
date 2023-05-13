@@ -12,7 +12,7 @@ I graduated from a Web Design and Development post-graduate program at Conestoga
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damanpreetsinghgrewal92@gmail.com)](mailto:damanpreetsinghgrewal92@gmail.com)
 
 
-![Damanpreet's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damanpreetgrewal&theme=dracula)
+![GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damanpreetgrewal&theme=dracula)
 
 
 
